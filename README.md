@@ -1,5 +1,6 @@
-- Hi, I’m @6luis
-- 6️⃣
+私は @6luis
+I am the @6luis
+Eu sou @6luis
 
 
 <!---
