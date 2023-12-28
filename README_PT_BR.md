@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=140&section=header"/>
 
-# Olá!, こんにちは!, Hello! :wave:
+# Olá!,  :wave:
 
 <img align="right" height="220" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
