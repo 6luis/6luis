@@ -4,7 +4,7 @@
 
 <br/>
 
-# Hello!, こんにちは!, Olá! :wave:
+# Hello! :wave:
 
 <img align="right" height="220" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
