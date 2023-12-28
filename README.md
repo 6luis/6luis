@@ -2,7 +2,7 @@
 
 # Hello!, こんにちは!, Olá! :wave:
 
-<img align="right" src="images/image.png" width="320"/> 
+<img align="right" src="[images/image.png](https://i.imgur.com/Tznn1IZ.gif)" width="320"/>
 
 My name is *Luis Gustavo Fernandes*, I'm 15 years old, I'm currently a programming student specializing in front-end but focusing on becoming **Full Stack**.
 
