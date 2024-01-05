@@ -1,4 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=140&section=header"/>
+<div align='center'> <a href='https://github.com/6luis/6luis/blob/main/README.md' alt='English readme'>English</a> | <a href='https://github.com/6luis/6luis/blob/main/README_PT_BR.md'>Português</a> </div>
+
+<br/>
 
 # Olá!,  :wave:
 
