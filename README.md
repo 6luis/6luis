@@ -23,7 +23,7 @@ My name is *Luis Gustavo Fernandes*, I'm 15 years old, I'm currently a programmi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=for-the-badge&logo=javascript&labelColor=000000&textColor=0D1117)&nbsp;
 ## :computer: Studying:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;![tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 
