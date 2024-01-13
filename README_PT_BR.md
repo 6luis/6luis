@@ -14,17 +14,24 @@ Meu nome é *Luis Gustavo Fernandes*, tenho 15 anos, atualmente sou estudante de
 [![Linkedin](https://img.shields.io/badge/-Linkedin-1493AA?&logo=Linkedin)](https://www.linkedin.com/in/luis-gustavo-fernandes-9248492a5/)
 
 
-
 ## :bookmark_tabs: Competências:
 ![HTML](https://img.shields.io/badge/-html5-FFFFFF?style=for-the-badge&logo=html5&labelColor=000000&textColor=000000)&nbsp;
 ![CSS](https://img.shields.io/badge/-css3-FFFFFF?style=for-the-badge&logo=css3&labelColor=000000&textColor=000000)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=for-the-badge&logo=javascript&labelColor=000000&textColor=0D1117)&nbsp;
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-FFFFFF?style=for-the-badge&logo=tailwindcss&labelColor=000000&textColor=000000)&nbsp;
+
 ## 💥 Frameworks:
 ![Vite.js](https://img.shields.io/badge/-vite.js-FFFFFF?style=for-the-badge&logo=vite&labelColor=000000)&nbsp;
 ## :computer: Estudando:
 ![React.js](https://img.shields.io/badge/-React.js-FFFFFF?style=for-the-badge&logo=react&labelColor=000000)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-FFFFFF?style=for-the-badge&logo=node.js&labelColor=000000&textColor=000000)&nbsp;
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-FFFFFF?style=for-the-badge&logo=tailwindcss&labelColor=000000&textColor=000000)&nbsp;
+## 🔨 Tools:
+![Vscode](https://img.shields.io/badge/-visualstudiocode-2384CD?style=for-the-badge&logo=visualstudiocode&labelColor=0066B2)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-FFB279?style=for-the-badge&logo=figma&labelColor=AAFF79)&nbsp;
+
+
+
+
 
 
 
