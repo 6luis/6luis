@@ -11,8 +11,8 @@
 My name is *Luis Gustavo Fernandes*, I'm 15 years old, I'm currently a programming student specializing in front-end but focusing on becoming **Full Stack**.
 
 ## 📱 To contact me go to:
-<a href = "mailto:cmp.1a.@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/luis-gustavo-fernandes-9248492a5/](https://www.linkedin.com/in/luis-gustavo-fernandes-9248492a5/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](mailto:lymeicontato@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/felipe-brito-b94721239)
  </div>
 
 
