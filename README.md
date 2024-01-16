@@ -36,6 +36,7 @@ My name is *Luis Gustavo Fernandes*, I'm 15 years old, I'm currently a programmi
 
 
 
+
 ## 🐱‍👤 GitHub Stats:
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=6luis&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="6luis github stats" /> 
