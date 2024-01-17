@@ -10,13 +10,13 @@
 
 My name is *Luis Gustavo Fernandes*, I'm 15 years old, I'm currently a programming student specializing in front-end but focusing on becoming **Full Stack**.
 
-## 📱 To contact me go to:
+## 📱 Ways to contact me:
 [![Gmail](https://img.shields.io/badge/-Gmail-811B1B?&logo=Gmail)](mailto:6luisgustavodev.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-1493AA?&logo=Linkedin)](https://www.linkedin.com/in/luis-gustavo-fernandes-9248492a5/)
 
 
 
-## :bookmark_tabs: Competências:
+## :bookmark_tabs: Skills:
 ![HTML](https://img.shields.io/badge/-html5-FF3030?style=for-the-badge&logo=html5&labelColor=000000&textColor=000000)&nbsp;
 ![CSS](https://img.shields.io/badge/-css3-2384CD?style=for-the-badge&logo=css3&labelColor=000000&textColor=000000)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFE030?style=for-the-badge&logo=javascript&labelColor=000000&textColor=0D1117)&nbsp;
@@ -24,7 +24,7 @@ My name is *Luis Gustavo Fernandes*, I'm 15 years old, I'm currently a programmi
 
 ## 💥 Frameworks:
 ![Vite.js](https://img.shields.io/badge/-vite.js-6F30FF?style=for-the-badge&logo=vite&labelColor=000000)&nbsp;
-## :computer: Estudando:
+## :computer: Studying:
 ![React.js](https://img.shields.io/badge/-React.js-30BAFF?style=for-the-badge&logo=react&labelColor=000000)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-008F16?style=for-the-badge&logo=node.js&labelColor=000000&textColor=000000)&nbsp;
 ## 🔨 Tools:
