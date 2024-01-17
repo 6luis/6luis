@@ -3,7 +3,7 @@
 
 <br/>
 
-# Olá!,  :wave:
+# Olá!  :wave:
 
 <img align="right" height="220" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
