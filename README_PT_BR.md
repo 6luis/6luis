@@ -25,7 +25,7 @@ Meu nome é *Luis Gustavo Fernandes*, tenho 15 anos, atualmente sou estudante de
 ## :computer: Estudando:
 ![React.js](https://img.shields.io/badge/-React.js-30BAFF?style=for-the-badge&logo=react&labelColor=000000)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-008F16?style=for-the-badge&logo=node.js&labelColor=000000&textColor=000000)&nbsp;
-## 🔨 Tools:
+## 🔨 Ferramentas:
 ![Vscode](https://img.shields.io/badge/-visualstudiocode-2384CD?style=for-the-badge&logo=visualstudiocode&labelColor=000000)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-FE6500?style=for-the-badge&logo=figma&labelColor=000000)&nbsp;
 
