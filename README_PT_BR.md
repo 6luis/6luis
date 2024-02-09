@@ -7,7 +7,7 @@
 
 <img align="right" height="220" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
-Meu nome é *Luis Gustavo Fernandes*, tenho 15 anos, atualmente sou estudante de programação com especialização em front-end mas com foco em me tornar **Full Stack**.
+Meu nome é *Luis Gustavo Fernandes*, tenho 16 anos, atualmente sou estudante de programação com especialização em front-end mas com foco em me tornar **Full Stack**.
 
 ## 📱 Para entrar em contato, acesse:
 [![Gmail](https://img.shields.io/badge/-Gmail-811B1B?&logo=Gmail)](mailto:6luisgustavodev.com)
