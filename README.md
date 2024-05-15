@@ -6,7 +6,7 @@
 
 # Hello! :wave:
 
-<img align="right" height="220" src="https://i.imgur.com/Tznn1IZ.gif"/>
+
 
 My name is *Luis Gustavo Fernandes*, I'm 16 years old, I'm currently a programming student specializing in front-end but focusing on becoming **Full Stack**.
 
