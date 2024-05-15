@@ -5,7 +5,7 @@
 
 # Olá!  :wave:
 
->
+
 
 Meu nome é *Luis Gustavo Fernandes*, tenho 16 anos, atualmente sou estudante de programação com especialização em front-end mas com foco em me tornar **Full Stack**.
 
