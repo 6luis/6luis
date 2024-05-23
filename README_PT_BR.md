@@ -17,14 +17,12 @@ Meu nome é *Luis Gustavo Fernandes*, tenho 16 anos, atualmente sou estudante de
 ## :bookmark_tabs: Competências:
 ![HTML](https://img.shields.io/badge/-html5-FF3030?style=for-the-badge&logo=html5&labelColor=000000&textColor=000000)&nbsp;
 ![CSS](https://img.shields.io/badge/-css3-2384CD?style=for-the-badge&logo=css3&labelColor=000000&textColor=000000)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFE030?style=for-the-badge&logo=javascript&labelColor=000000&textColor=0D1117)&nbsp;
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-30F9FF?style=for-the-badge&logo=tailwindcss&labelColor=000000&textColor=000000)&nbsp;
 
 ## 💥 Frameworks:
-![Vite.js](https://img.shields.io/badge/-vite.js-6F30FF?style=for-the-badge&logo=vite&labelColor=000000)&nbsp;
+![Ruby on Rails](https://img.shields.io/badge/-rubyonrails-FF0000?style=for-the-badge&logo=rubyonrails&labelColor=000000)&nbsp;
 ## :computer: Estudando:
-![React.js](https://img.shields.io/badge/-React.js-30BAFF?style=for-the-badge&logo=react&labelColor=000000)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-008F16?style=for-the-badge&logo=node.js&labelColor=000000&textColor=000000)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-FF0000?style=for-the-badge&logo=ruby&labelColor=000000&textColor=FF0000)&nbsp;
 ## 🔨 Ferramentas:
 ![Vscode](https://img.shields.io/badge/-visualstudiocode-2384CD?style=for-the-badge&logo=visualstudiocode&labelColor=000000)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-FE6500?style=for-the-badge&logo=figma&labelColor=000000)&nbsp;
