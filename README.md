@@ -22,9 +22,9 @@ My name is *Luis Gustavo Fernandes*, I'm 16 years old, I'm currently a programmi
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-30F9FF?style=for-the-badge&logo=tailwindcss&labelColor=000000&textColor=000000)&nbsp;
 
 ## 💥 Frameworks:
-![Vite.js](https://img.shields.io/badge/-vite.js-6F30FF?style=for-the-badge&logo=vite&labelColor=000000)&nbsp;
+![Ruby on Rails](https://img.shields.io/badge/-rubyonrails-FF0000?style=for-the-badge&logo=rubyonrails&labelColor=000000)&nbsp;
 ## :computer: Studying:
-![Ruby](https://img.shields.io/badge/-Ruby-FF3030?style=for-the-badge&logo=ruby&labelColor=000000&textColor=FF3030)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-FF0000?style=for-the-badge&logo=ruby&labelColor=000000&textColor=FF0000)&nbsp;
 ## 🔨 Tools:
 ![Vscode](https://img.shields.io/badge/-visualstudiocode-2384CD?style=for-the-badge&logo=visualstudiocode&labelColor=000000)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-FE6500?style=for-the-badge&logo=figma&labelColor=000000)&nbsp;
