@@ -19,7 +19,7 @@ My name is *Luis Gustavo Fernandes*, I'm 16 years old, I'm currently a programmi
 ## :bookmark_tabs: Skills:
 ![HTML](https://img.shields.io/badge/-html5-FF3030?style=for-the-badge&logo=html5&labelColor=000000&textColor=000000)&nbsp;
 ![CSS](https://img.shields.io/badge/-css3-2384CD?style=for-the-badge&logo=css3&labelColor=000000&textColor=000000)&nbsp;
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-30F9FF?style=for-the-badge&logo=tailwindcss&labelColor=000000&textColor=000000)&nbsp;
+![tailwind css](https://img.shields.io/badge/-tailwindcss-30F9FF?style=for-the-badge&logo=tailwindcss&labelColor=000000&textColor=000000)&nbsp;
 
 ## 💥 Frameworks:
 ![Ruby on Rails](https://img.shields.io/badge/-rubyonrails-FF0000?style=for-the-badge&logo=rubyonrails&labelColor=000000)&nbsp;
@@ -37,8 +37,8 @@ My name is *Luis Gustavo Fernandes*, I'm 16 years old, I'm currently a programmi
 
 ## 🐱‍👤 GitHub Stats:
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=6luis&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="6luis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6luis&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=6luis&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=846A56" alt="6luis github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6luis&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=846A56" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=846A56&height=120&section=footer"/>
