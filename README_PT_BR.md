@@ -36,8 +36,8 @@ Meu nome é *Luis Gustavo Fernandes*, tenho 16 anos, atualmente sou estudante de
 
 ## 🐱‍👤  Estatísticas do GitHub:
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=6luis&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="6luis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6luis&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=6luis&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=846A56" alt="6luis github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6luis&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=846A56" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=846A56&height=120&section=footer"/>
