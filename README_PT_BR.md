@@ -20,9 +20,9 @@ Meu nome é *Luis Gustavo Fernandes*, tenho 17 anos, atualmente sou estudante de
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-30F9FF?style=for-the-badge&logo=tailwindcss&labelColor=000000&textColor=000000)&nbsp;
 
 ## 💥 Frameworks:
-![Ruby on Rails](https://img.shields.io/badge/-rubyonrails-FF0000?style=for-the-badge&logo=rubyonrails&labelColor=000000)&nbsp;
-## :computer: Estudando:
-![Ruby](https://img.shields.io/badge/-Ruby-FF0000?style=for-the-badge&logo=ruby&labelColor=000000&textColor=FF0000)&nbsp;
+![tailwind css](https://img.shields.io/badge/-tailwindcss-30F9FF?style=for-the-badge&logo=tailwindcss&labelColor=000000&textColor=000000)&nbsp;
+## :computer: Studying:
+![C](https://img.shields.io/badge/-c-2384CD?style=for-the-badge&logo=c&labelColor=000000&textColor=000000)&nbsp;
 ## 🔨 Ferramentas:
 ![Vscode](https://img.shields.io/badge/-visualstudiocode-2384CD?style=for-the-badge&logo=visualstudiocode&labelColor=000000)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-FE6500?style=for-the-badge&logo=figma&labelColor=000000)&nbsp;
