@@ -17,7 +17,6 @@ Meu nome é *Luis Gustavo Fernandes*, tenho 17 anos, atualmente sou estudante de
 ## :bookmark_tabs: Competências:
 ![HTML](https://img.shields.io/badge/-html5-FF3030?style=for-the-badge&logo=html5&labelColor=000000&textColor=000000)&nbsp;
 ![CSS](https://img.shields.io/badge/-css3-2384CD?style=for-the-badge&logo=css3&labelColor=000000&textColor=000000)&nbsp;
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-30F9FF?style=for-the-badge&logo=tailwindcss&labelColor=000000&textColor=000000)&nbsp;
 
 ## 💥 Frameworks:
 ![tailwind css](https://img.shields.io/badge/-tailwindcss-30F9FF?style=for-the-badge&logo=tailwindcss&labelColor=000000&textColor=000000)&nbsp;
