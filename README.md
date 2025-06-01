@@ -25,7 +25,7 @@ My name is *Luis Gustavo Fernandes*, I'm 17 years old, I'm currently a programmi
 ## :computer: Studying:
 ![C](https://img.shields.io/badge/-c-2384CD?style=for-the-badge&logo=c&labelColor=000000&textColor=000000)&nbsp;
 ## 🔨 Tools:
-![Vscode](https://img.shields.io/badge/-visualstudiocode-2384CD?style=for-the-badge&logo=visualstudiocode&labelColor=000000)&nbsp;
+![Vscode](https://img.shields.io/badge/-vscode-2384CD?style=for-the-badge&logo=vscode&labelColor=000000)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-FE6500?style=for-the-badge&logo=figma&labelColor=000000)&nbsp;
 
 
