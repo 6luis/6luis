@@ -23,7 +23,7 @@ My name is *Luis Gustavo Fernandes*, I'm 17 years old, I'm currently a programmi
 ## 💥 Frameworks:
 ![tailwind css](https://img.shields.io/badge/-tailwindcss-30F9FF?style=for-the-badge&logo=tailwindcss&labelColor=000000&textColor=000000)&nbsp;
 ## :computer: Studying:
-![C](https://img.shields.io/badge/-Ruby-FF0000?style=for-the-badge&logo=C&labelColor=000000&textColor=FF0000)&nbsp;
+![C](https://img.shields.io/badge/-c-2384CD?style=for-the-badge&logo=c&labelColor=000000&textColor=000000)&nbsp;
 ## 🔨 Tools:
 ![Vscode](https://img.shields.io/badge/-visualstudiocode-2384CD?style=for-the-badge&logo=visualstudiocode&labelColor=000000)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-FE6500?style=for-the-badge&logo=figma&labelColor=000000)&nbsp;
